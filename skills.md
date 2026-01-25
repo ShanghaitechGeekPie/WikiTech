@@ -2,7 +2,7 @@
 title: 服务与技巧
 description: 一些实用技能/服务拾遗
 published: true
-date: 2026-01-25T15:07:37.359Z
+date: 2026-01-25T15:14:43.630Z
 tags: skills, services
 editor: markdown
 dateCreated: 2026-01-25T15:07:37.358Z
@@ -10,7 +10,7 @@ dateCreated: 2026-01-25T15:07:37.358Z
 
 # 服务与技巧
 
-## 信息服务
+## 网络服务
 
 ### 校园网
 
@@ -45,6 +45,35 @@ dateCreated: 2026-01-25T15:07:37.358Z
 	- 一般重新修改密码会关联到无线网络的密码修改，但相关延迟从数小时到几天不等，建议是**除非你的设备被强制下线，否则不要手动断开连接或忘记网络**。在特殊活动前记得提前修改密码，以免出现恰好无法登录无线服务的情况。
 
 如有其他情况，请立刻拨打图书与信息中心 7x24 服务热线 `021-20685566`，或者电邮到 it-support@shanghaitech.edu.cn。
+
+### 返校 VPN
+
+#### 使用 ATrust 客户端（手机/Windows/MacOS/部分 Linux）
+
+具体参阅图信的 [电子资源校外访问](https://library.shanghaitech.edu.cn/4032/list.htm) 指南和附件 [20250107-上海科技大学校园VPN接入使用指南.pdf](https://library.shanghaitech.edu.cn/_upload/article/files/e1/cd/e09fb90d42129fbcee06bfe7ffc6/f6ee0aa5-8ef9-4e94-bd09-d24168fd6026.pdf)
+
+#### 使用 Docker
+
+由于 ATrust ~~过于流氓~~ 我们这里介绍一种使用 VPN 的方法，感谢开源项目 `hagb/docker-atrust`
+
+Linux 等使用以下命令
+
+```bash
+sudo docker run --rm --device /dev/net/tun --cap-add NET_ADMIN -ti -e PASSWORD=88888888 -e URLWIN=1 -v $HOME/.atrust-data:/root -p 127.0.0.1:5901:5901 -p 127.0.0.1:1080:1080 -p 127.0.0.1:8888:8888 -p 127.0.0.1:54631:54631 --sysctl net.ipv4.conf.default.route_localnet=1 docker.1ms.run/hagb/docker-atrust
+```
+
+接下来使用任意 VNC 客户端连接到 `127.0.0.1:5901` 密码为上述命令里提供的 `88888888`
+
+然后输入服务器地址 `vpn.shanghaitech.edu.cn`，点击连接
+
+此时会出现两种情况：
+
+- 你顺利的拿到了链接，点击复制，在你宿主机（非 VNC 内）访问这个地址并登录，完成
+- 你没有拿到，有可能是因为弹出了强制更新等，那么请：
+	- 直接在外部访问 https://ids.shanghaitech.edu.cn/authserver/login?service=https%3A%2F%2Fvpn.shanghaitech.edu.cn%3A443%2Fpassport%2Fv1%2Fauth%2Fcas
+  - 登录，一样可以完成
+  
+之后，你可以使用代理等工具，将 `http://172.0.0.1:8888` 或者 `socks5://127.0.0.1:1080` 作为你的代理地址。
 
 ## 校园邮箱
 
