@@ -2,7 +2,7 @@
 title: 常用网站
 description: 校内外常用网站
 published: true
-date: 2026-01-25T11:25:28.457Z
+date: 2026-01-25T14:20:31.522Z
 tags: websites
 editor: markdown
 dateCreated: 2026-01-25T11:24:35.368Z
@@ -22,8 +22,8 @@ dateCreated: 2026-01-25T11:24:35.368Z
 - 校园服务平台Egate: <https://egate.shanghaitech.edu.cn/>
 - 图书馆电子数据库目录: <https://library.shanghaitech.edu.cn/>
 - 信息公开网：[https://openinfo.shanghaitech.edu.cn](https://openinfo.shanghaitech.edu.cn/)
-- 活动成就签到系统：<https://grade.geekpie.club>
-- `CourseBench` 评课社区：<https://coursebench.geekpie.club/>
+<!--- 活动成就签到系统：<https://grade.geekpie.club> -->
+- `CourseBench` 评课社区：<https://coursebench.org/>
 - 开源镜像站：https://mirrors.shanghaitech.edu.cn/
 - 教学管理系统：https://eams.shanghaitech.edu.cn/
 - 上科大云盘：<http://pan.shanghaitech.edu.cn> （仅限校内访问）
