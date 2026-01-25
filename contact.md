@@ -2,7 +2,7 @@
 title: 黄页
 description: 上科大公开的联系方式整合页
 published: true
-date: 2026-01-25T14:31:33.936Z
+date: 2026-01-25T14:36:22.500Z
 tags: contact
 editor: markdown
 dateCreated: 2026-01-25T11:21:43.790Z
@@ -27,8 +27,8 @@ dateCreated: 2026-01-25T11:21:43.790Z
 
 | 名称 | 电话 | 电子邮件 |
 |------|------|-----|
-| 综合办公室（党务） | 86-21-20685319 / 86-21-20685318（传真） | ucoffice@shanghaitech.edu.cn |
-| 综合办公室（行政） | 86-21-20685160 / 86-21-20685052（传真） | office@shanghaitech.edu.cn |
+| 综合办公室（党务） | 86-21-20685319 <br/> 86-21-20685318（传真） | ucoffice@shanghaitech.edu.cn |
+| 综合办公室（行政） | 86-21-20685160 <br/> 86-21-20685052（传真） | office@shanghaitech.edu.cn |
 | 国际事务处 | 86-21-20685146 | oia@shanghaitech.edu.cn |
 | 教务处 | 86-21-20685313 | student@shanghaitech.edu.cn |
 | 研究生院 | 86-21-20685449 | gadmission@shanghaitech.edu.cn |
@@ -39,11 +39,11 @@ dateCreated: 2026-01-25T11:21:43.790Z
 | 技术转移办公室 | 86-21-20685249 | ott@shanghaitech.edu.cn |
 | 人力资源处 | 86-21-20685419 | hr@shanghaitech.edu.cn |
 | 财务处 | 86-21-20685118 | finance@shanghaitech.edu.cn |
-| 公共服务处 | 86-21-20684567 | ogs@shanghaitech.edu.cn |
+| 公共服务处 | 86-21-20684567 | ogs@shanghaitech.edu.cn <br/> clinic@shanghaitech.edu.cn（医务室） |
 | 基建管理中心 | 86-21-20685174 | zhaojch@shanghaitech.edu.cn |
 | 设备与资产处 | 86-21-20685211 | facility@shanghaitech.edu.cn |
 | 环境安全与健康处 | 86-21-20685200 | EHS@shanghaitech.edu.cn |
-| 图书信息中心 | 86-21-20685191 | library@shanghaitech.edu.cn |
+| 图书信息中心 | 86-21-20685191 | library@shanghaitech.edu.cn（图书馆） <br/> it-support@shanghaitech.edu.cn（信息中心） <br/> it@shanghaitech.edu.cn（信息中心） |
 | 物质科学与技术学院 | 86-21-20685059 | spst@shanghaitech.edu.cn |
 | 生命科学与技术学院 | 86-21-20685017 | slst@shanghaitech.edu.cn |
 | 信息科学与技术学院 | 86-21-20685212 | sist@shanghaitech.edu.cn |
@@ -59,3 +59,8 @@ dateCreated: 2026-01-25T11:21:43.790Z
 | 量子器件中心 | 86-21-20684741 | sqdl@shanghaitech.edu.cn |
 | 未来医学中心 | 86-21-20685413 | hospital@shanghaitech.edu.cn |
 | 2060研究院 | 86-21-20685354 | chengcheng@shanghaitech.edu.cn |
+
+## 书院/宿舍
+
+- 各宿舍一楼宿管。电话：206855XX
+	- 备注：电话中 XX 为宿舍楼号，例如 5 号楼=20685505，10 号楼=20685510
