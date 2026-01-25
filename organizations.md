@@ -2,7 +2,7 @@
 title: 组织和社团
 description: 上科大的各种组织和社团信息
 published: true
-date: 2026-01-25T16:09:38.377Z
+date: 2026-01-25T16:36:50.255Z
 tags: organizations
 editor: markdown
 dateCreated: 2026-01-25T11:23:27.394Z
@@ -20,7 +20,81 @@ dateCreated: 2026-01-25T11:23:27.394Z
 
 ACM社、Danceholic街舞社、DataTech（数据科学）、HiFi研究社、Igem、Rhynic Studio游戏制作社、SK8滑板社、尘音合唱团、城市定向社、剧社、国文社、极限飞盘社、记者团、排球俱乐部、拳击俱乐部、GeekPie（网络开发、创客活动）、Prism漫研社、辩论社、管弦乐团、乒乓球俱乐部、网球俱乐部、国风民族文化社、跑步协会、音乐社、职业发展协会、篮球俱乐部、跆拳道社、物理社（SPS）、心理协会、瑜伽社、羽毛球协会、志愿者协会、足球社、无人机社。
 
-另外还有学校的非官方社团：Magician、CSGO@ShanghaiTech
+### 社团名录 {.tabset}
+
+#### 科道书院
+
+[科道书院社团活动风采](https://kedao.shanghaitech.edu.cn/16212/list.htm)
+
+**社团介绍/官网**
+
+- [GeekPie 社团](https://geekpie.club)
+- [ACM 社团](https://acm.shanghaitech.edu.cn)
+- [HiFi 社](https://kedao.shanghaitech.edu.cn/16258/list.htm)
+- [InterStudio 社团](https://kedao.shanghaitech.edu.cn/16271/list.htm)
+- [Rhynic Studio 游戏社](https://kedao.shanghaitech.edu.cn/16257/list.htm)
+- [击剑社](https://kedao.shanghaitech.edu.cn/16272/list.htm)
+- [飞盘社](https://kedao.shanghaitech.edu.cn/16262/list.htm)
+- [科技创业社](https://kedao.shanghaitech.edu.cn/16264/list.htm)
+- [篮球社](https://kedao.shanghaitech.edu.cn/16261/list.htm)
+- [乐道英语社](https://kedao.shanghaitech.edu.cn/16273/list.htm)
+- [苗圃社](https://kedao.shanghaitech.edu.cn/16274/list.htm)
+- [骑行社](https://kedao.shanghaitech.edu.cn/16263/list.htm)
+- [网球社](https://kedao.shanghaitech.edu.cn/16260/list.htm)
+- [无人机制作社](https://kedao.shanghaitech.edu.cn/16255/list.htm)
+- [音乐剧社](https://kedao.shanghaitech.edu.cn/16276/list.htm)
+- [音乐社](https://kedao.shanghaitech.edu.cn/16259/list.htm)
+- [游泳社](https://kedao.shanghaitech.edu.cn/16277/list.htm)
+
+#### 大道书院
+
+[大道书院社团活动页面](https://dadao.shanghaitech.edu.cn/sthd_14598/list.htm)
+
+**社团介绍/官网**
+
+- [DataTech (数据科学) 社团](https://www.datatech.club)
+- [羽毛球协会](https://dadao.shanghaitech.edu.cn/14638/list.htm)
+- [iGEM 社团](https://dadao.shanghaitech.edu.cn/14639/list.htm)
+- [尘音合唱团](https://dadao.shanghaitech.edu.cn/14640/list.htm)
+- [街舞社](https://dadao.shanghaitech.edu.cn/14641/list.htm)
+- [摄影社](https://dadao.shanghaitech.edu.cn/14642/list.htm)
+- [职业发展协会](https://dadao.shanghaitech.edu.cn/14643/list.htm)
+- [排球俱乐部](https://dadao.shanghaitech.edu.cn/14644/list.htm)
+- [记者社](https://dadao.shanghaitech.edu.cn/14645/list.htm)
+- [瑜伽社](https://dadao.shanghaitech.edu.cn/14646/list.htm)
+
+#### 上道书院
+
+[上道书院社团动态页面](https://shangdao.shanghaitech.edu.cn/stdt/list.htm)
+
+**社团介绍/官网**
+
+- [管弦乐团](http://shangdao.shanghaitech.edu.cn/2022/0303/c15114a1105780/page.htm)
+- [禾风剧团系剧社](http://shangdao.shanghaitech.edu.cn/2022/0323/c15114a1105782/page.htm)
+- [国风民族文化社](http://shangdao.shanghaitech.edu.cn/2022/0303/c15114a1105781/page.htm)
+- [文学社](http://shangdao.shanghaitech.edu.cn/2022/0915/c15114a1105790/page.htm)
+- [国文社](http://shangdao.shanghaitech.edu.cn/2022/0323/c15114a1105789/page.htm)
+- [黑白行空钢琴社](http://shangdao.shanghaitech.edu.cn/2025/0409/c15114a1108992/page.htm)
+- [花样跳绳社](http://shangdao.shanghaitech.edu.cn/2024/0613/c15115a1105792/page.htm)
+- [乒乓球俱乐部](http://shangdao.shanghaitech.edu.cn/2022/0303/c15115a1105786/page.htm)
+- [毅行跑步协会](http://shangdao.shanghaitech.edu.cn/2022/0303/c15115a1105787/page.htm)
+- [足球社](http://shangdao.shanghaitech.edu.cn/2022/0303/c15115a1105788/page.htm)
+- [沪科梦模拟联合国协会](http://shangdao.shanghaitech.edu.cn/2025/0411/c15116a1109024/page.htm)
+- [物理社](http://shangdao.shanghaitech.edu.cn/2022/0303/c15116a1105783/page.htm)
+- [鹮羽观鸟社](http://shangdao.shanghaitech.edu.cn/2024/0613/c15117a1105791/page.htm)
+- [心理协会](http://shangdao.shanghaitech.edu.cn/2022/0303/c15117a1105785/page.htm)
+- [志愿者协会](http://shangdao.shanghaitech.edu.cn/2022/0303/c15117a1105784/page.htm)
+
+#### 社联
+
+- [Prism 漫研社](https://life.shanghaitech.edu.cn/_t63/2021/1217/c9387a209196/page.htm)
+
+#### 非官方社团/协会
+
+- Magician 战队
+- CSGO@ShanghaiTech 协会
+
+### 社团列表 & 招新
 
 > 以下内容不定期更新，部分强时效性的内容内容可能已经过时。
 
@@ -32,17 +106,13 @@ ACM社、Danceholic街舞社、DataTech（数据科学）、HiFi研究社、Igem
 
 上海科技大学学生 GeekPie 社团由首届本科生创立于 2014 年，是一个秉承开源共享理念，在校园内积极营造协作、开发、创意与创造氛围，立足于技术的综合性科创社团。社团成立八年来，已吸纳校内外本研成员一千余人，共在含高性能计算的共 8 个领域/方向建立了团队，涵盖机器人、FPGA、运维架构、应用与 Web 开发、信息安全、图形图像等多个领域。社团鼓励同学们在贴近业界/学界前沿的各类实践学习机会中，锻炼融合不同领域间知识与技能的能力。八年以来，社团成员在国内国际各大赛事中累计斩获各类奖项七十余项，包括 KONE Hackathon 金奖、ASC银奖、SC银奖等。2017年暑期，GeekPie 社团合作举办了 hack.init()青少年编程马拉松，2018年还合作举办了THE Hack 创客马拉松，2019-2022年GeekPie在全球各类科创比赛共获得28项奖项。GeekPie_HPC战队在SC21世界超算大赛中取得全球第二的优异成绩。社团已与中科大 LUG、上大开源社区、同济计算机协会等同类社团已建立交流关系，并与高通（Qualcomm）、微软、赛灵思（Xilinx）、叠境、影眸、商汤等业界领军企业成果合作举办过活动或建立了长期合作关系。昨日可忆，未来可期，GeekPie 的全体社员将继续努力，在更多更高更险的山峰上插上上科大的旗帜。
 
-*GeekPie科创工作室交流群*：217260786
-
-*官方网站*：https://www.geekpie.club/
-
-*GitHub*：https://github.com/ShanghaitechGeekPie/
-
-*开源镜像*：https://mirrors.shanghaitech.edu.cn/
-
-*CourseBench*：https://coursebench.org/
-
-招新：详情关注招新海报，**欢迎有志愿参加HPC、CTF、Hackathon、FPGA、创客大赛等学术科创类竞赛的同学，与想要与我们一同开发像fresh、mirrors这样网站的同学与社长联系！**
+- 如何加入？*GeekPie科创工作室交流群*：217260786
+- 官方网站：https://geekpie.club/
+- GitHub：https://github.com/ShanghaitechGeekPie/
+- 部分服务一览
+	- 上海科技大学开源镜像站：https://mirrors.shanghaitech.edu.cn/
+	- CourseBench 上科大最大评课网站：https://coursebench.org/
+- 招新详情请关注校内招新海报，**欢迎有志愿参加HPC、CTF、Hackathon、FPGA、创客大赛等学术科创类竞赛的同学，和想要与我们一同开发像fresh、mirrors这样网站的同学加入我们！**
 
 ### 程序设计竞赛社团(ACM)社
 
