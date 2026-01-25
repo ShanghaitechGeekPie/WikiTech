@@ -2,7 +2,7 @@
 title: 欢迎来到上科手册！
 description: 上科手册是 Wiki 式的上海科技大学百科站点，所有师生可编辑，为上科大师生提供快捷信息查询服务。
 published: true
-date: 2026-01-25T09:35:39.003Z
+date: 2026-01-25T10:38:59.180Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-25T09:35:36.350Z
