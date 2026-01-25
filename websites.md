@@ -2,7 +2,7 @@
 title: 常用网站
 description: 校内外常用网站
 published: true
-date: 2026-01-25T14:23:06.809Z
+date: 2026-01-25T16:44:27.304Z
 tags: websites
 editor: markdown
 dateCreated: 2026-01-25T11:24:35.368Z
@@ -26,7 +26,7 @@ dateCreated: 2026-01-25T11:24:35.368Z
 - `CourseBench` 评课社区：<https://coursebench.org/>
 - 开源镜像站：https://mirrors.shanghaitech.edu.cn/
 - 教学管理系统：https://eams.shanghaitech.edu.cn/
-- 上科大云盘：<http://pan.shanghaitech.edu.cn> （仅限校内访问）
+- 上科大云盘：https://epan.shanghaitech.edu.cn （仅限校内访问）
 - 上海科技大学知识管理系统（KMS）：https://kms.shanghaitech.edu.cn/
 
 ### 常用站点
