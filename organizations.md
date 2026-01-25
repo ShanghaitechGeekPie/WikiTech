@@ -2,7 +2,7 @@
 title: 组织和社团
 description: 上科大的各种组织和社团信息
 published: true
-date: 2026-01-25T16:36:50.255Z
+date: 2026-01-25T16:39:09.447Z
 tags: organizations
 editor: markdown
 dateCreated: 2026-01-25T11:23:27.394Z
@@ -18,8 +18,6 @@ dateCreated: 2026-01-25T11:23:27.394Z
 
 现有社团名录：
 
-ACM社、Danceholic街舞社、DataTech（数据科学）、HiFi研究社、Igem、Rhynic Studio游戏制作社、SK8滑板社、尘音合唱团、城市定向社、剧社、国文社、极限飞盘社、记者团、排球俱乐部、拳击俱乐部、GeekPie（网络开发、创客活动）、Prism漫研社、辩论社、管弦乐团、乒乓球俱乐部、网球俱乐部、国风民族文化社、跑步协会、音乐社、职业发展协会、篮球俱乐部、跆拳道社、物理社（SPS）、心理协会、瑜伽社、羽毛球协会、志愿者协会、足球社、无人机社。
-
 ### 社团名录 {.tabset}
 
 #### 科道书院
@@ -30,7 +28,7 @@ ACM社、Danceholic街舞社、DataTech（数据科学）、HiFi研究社、Igem
 
 - [GeekPie 社团](https://geekpie.club)
 - [ACM 社团](https://acm.shanghaitech.edu.cn)
-- [HiFi 社](https://kedao.shanghaitech.edu.cn/16258/list.htm)
+- [HiFi 研究社](https://kedao.shanghaitech.edu.cn/16258/list.htm)
 - [InterStudio 社团](https://kedao.shanghaitech.edu.cn/16271/list.htm)
 - [Rhynic Studio 游戏社](https://kedao.shanghaitech.edu.cn/16257/list.htm)
 - [击剑社](https://kedao.shanghaitech.edu.cn/16272/list.htm)
@@ -56,7 +54,7 @@ ACM社、Danceholic街舞社、DataTech（数据科学）、HiFi研究社、Igem
 - [羽毛球协会](https://dadao.shanghaitech.edu.cn/14638/list.htm)
 - [iGEM 社团](https://dadao.shanghaitech.edu.cn/14639/list.htm)
 - [尘音合唱团](https://dadao.shanghaitech.edu.cn/14640/list.htm)
-- [街舞社](https://dadao.shanghaitech.edu.cn/14641/list.htm)
+- [Danceholic 街舞社](https://dadao.shanghaitech.edu.cn/14641/list.htm)
 - [摄影社](https://dadao.shanghaitech.edu.cn/14642/list.htm)
 - [职业发展协会](https://dadao.shanghaitech.edu.cn/14643/list.htm)
 - [排球俱乐部](https://dadao.shanghaitech.edu.cn/14644/list.htm)
@@ -89,10 +87,15 @@ ACM社、Danceholic街舞社、DataTech（数据科学）、HiFi研究社、Igem
 
 - [Prism 漫研社](https://life.shanghaitech.edu.cn/_t63/2021/1217/c9387a209196/page.htm)
 
-#### 非官方社团/协会
+#### 其他社团/非官方社团
 
 - Magician 战队
 - CSGO@ShanghaiTech 协会
+- SK8滑板社
+- 城市定向社
+- 拳击俱乐部
+- 辩论社
+- 跆拳道社
 
 ### 社团列表 & 招新
 
