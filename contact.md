@@ -2,13 +2,24 @@
 title: 黄页
 description: 上科大公开的联系方式整合页
 published: true
-date: 2026-01-25T14:23:35.615Z
+date: 2026-01-25T14:31:33.936Z
 tags: contact
 editor: markdown
 dateCreated: 2026-01-25T11:21:43.790Z
 ---
 
 # 黄页
+
+## 学校地址
+
+- 浦东校区 / 主校区
+	- 地址：上海市浦东新区华夏中路393号
+  - 邮编：201210
+  - 393 Middle Huaxia Road, Pudong New Area, Shanghai, 201210
+- 岳阳路校区 / 浦西校区
+	- 地址：上海市徐汇区岳阳路319号8号楼
+  - 邮编：200031
+  - 319 Yueyang Road, Xuhui District, Shanghai, 200031
 
 ## 机构和院所
 
