@@ -2,7 +2,7 @@
 title: 入学准备
 description: 一些新生必备的前置信息和操作
 published: true
-date: 2026-01-25T11:13:33.453Z
+date: 2026-01-25T13:19:20.132Z
 tags: fresh
 editor: markdown
 dateCreated: 2026-01-25T10:54:49.757Z
@@ -93,17 +93,17 @@ dateCreated: 2026-01-25T10:54:49.757Z
 
 在办卡时可能会有问需不需要办理信用卡，这个根据个人情况决定，不是必须选项。银行工作人员可能会在不充分告知的情况下让前来领取校园卡的同学填写信用卡申请表格，请留意所填写表格的内容。
 
-![2e7ac5c33091b5366955325a643cbadf.png](/fresh/2e7ac5c33091b5366955325a643cbadf.png)
+![2e7ac5c33091b5366955325a643cbadf.png](/2e7ac5c33091b5366955325a643cbadf.png)
 
 _上海银行-上海科技大学联名借记卡兼校园一卡通_
 
 ### 使用指南：功能、修改密码、圈存、挂失
 来源：[上海科技大学](https://www.shanghaitech.edu.cn/1547/list.htm)
 
-![](media/image00.png)
-![](media/image01.png)
-![](media/image02.png)
-![](media/image03.png)
+![](/image00.png)
+![](/image01.png)
+![](/image02.png)
+![](/image03.png)
 
 ### 现金/电子支付
 
