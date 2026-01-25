@@ -2,7 +2,7 @@
 title: 组织和社团
 description: 上科大的各种组织和社团信息
 published: true
-date: 2026-01-25T13:46:54.208Z
+date: 2026-01-25T14:04:23.690Z
 tags: organizations
 editor: markdown
 dateCreated: 2026-01-25T11:23:27.394Z
@@ -189,9 +189,9 @@ Prism漫研社成立于2014年，是上科大最早的社团之一。目前社�
 
 ### 拳击俱乐部
 
-![quanji-1.jpeg](/quanji-1.jpeg)
+![quanji-1.jpeg](/organizations/quanji-1.jpeg)
 
-![quanji-2.jpeg](/quanji-2.jpeg)
+![quanji-2.jpeg](/organizations/quanji-2.jpeg)
 
 拳击，是一项有趣且富有挑战性的运动，每一次训练，都是对力量、体能和敏捷性的综合考验。
 
@@ -207,7 +207,7 @@ Prism漫研社成立于2014年，是上科大最早的社团之一。目前社�
 
 ### 国风民族文化社
 
-![guofeng-1.png](/guofeng-1.png)
+![guofeng-1.png](/organizations/guofeng-1.png)
 
 一弹新月白，数曲暮山青。我们追寻历史中传来的袅袅之音。
 
@@ -228,7 +228,7 @@ Prism漫研社成立于2014年，是上科大最早的社团之一。目前社�
 
 舞团现招收所有对中国舞有兴趣的同学，对基本功和舞蹈基础不设门槛和要求，**当然也非常欢迎和需要有基础的小可爱们加入呀**！啾咪！扫码进群
 
-![guofeng-2.png](/guofeng-2.png)
+![guofeng-2.png](/organizations/guofeng-2.png)
 
 **国风民族乐团**
 
@@ -240,9 +240,9 @@ Prism漫研社成立于2014年，是上科大最早的社团之一。目前社�
 
 欢迎关注 上科大国风民族乐团微信公众号以及加入无门槛民乐爱好者qq群：602806968。（具体怎么招新社长没说，生疏的乐器可以先练习起来啦，等社长想好怎么招新我们再一起整活！）
 
-![guofeng-3.jpeg](/guofeng-3.jpeg)
+![guofeng-3.jpeg](/organizations/guofeng-3.jpeg)
 
-![guofeng-4.png](/guofeng-4.png)
+![guofeng-4.png](/organizations/guofeng-4.png)
 
 **国风综合部**
 
