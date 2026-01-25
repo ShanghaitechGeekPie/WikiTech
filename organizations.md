@@ -2,7 +2,7 @@
 title: 组织和社团
 description: 上科大的各种组织和社团信息
 published: true
-date: 2026-01-25T14:04:23.690Z
+date: 2026-01-25T14:08:34.622Z
 tags: organizations
 editor: markdown
 dateCreated: 2026-01-25T11:23:27.394Z
@@ -256,7 +256,7 @@ Prism漫研社成立于2014年，是上科大最早的社团之一。目前社�
 
 ### 上科大瑜伽社
 
-![](media/58be09fe5adbbd20bfddddf2382789cd.jpeg)
+![yoga.jpeg](/organizations/yoga.jpeg)
 
 _社团：上科大瑜伽社_
 
@@ -286,9 +286,9 @@ Oi！不是，上科大那个呀？
 
 下面，请看我们的演出照片~
 
-![尘音合唱团演出照片](media/ShanghaiChorus20250731-1.jpeg)
+![尘音合唱团演出照片](/organizations/shanghaichorus20250731-1.jpeg)
 
-![尘音合唱团演出照片](media/ShanghaiChorus20250731-2.jpeg)
+![尘音合唱团演出照片](/organizations/shanghaichorus20250731-2.jpeg)
  
 哇！好欢乐呀~
 
@@ -318,9 +318,9 @@ Oi！不是，上科大那个呀？
 
 你可能要问了，学长学姐，你们唱歌都那么好听，我是音乐爱好者，但没有学过声乐，也可以加入合唱团吗？The answer is：当然可以！今年刚好是尘音合唱团成立十周年，我们诚挚欢迎每一位受过专业训练的音乐大佬，和未经雕琢但跃跃欲试的合唱小白！正如《声部介绍歌》所唱，“术业有专攻，各声部有特长，和谐产生美”，尘音合唱团是一个具有强大的凝聚力和高昂的音乐热情的温暖大集体。期待每一个你的加入让尘音的和声更加动听悠扬！
 
-![尘音合唱团演出照片](media/ShanghaiChorus20250731-3.jpeg)
+![尘音合唱团演出照片](/organizations/shanghaichorus20250731-3.jpeg)
 
-![尘音合唱团演出照片](media/ShanghaiChorus20250731-4.jpeg)
+![尘音合唱团演出照片](/organizations/shanghaichorus20250731-4.jpeg)
 
   
 舞台之下，我们是幸福滴伐木累！
@@ -337,8 +337,7 @@ Oi！不是，上科大那个呀？
 
 欢迎关注尘音合唱团的B站账号：上科大尘音合唱团（UID:670045446），里面有超多专场音乐会的精彩视频以及日常排练的活泼花絮，别光看哦，快加入吧！
 
-
-![](media/d2dc4e18e70bce8e7b851b742e628a2c.jpeg)
+![shanghaichorus.jpeg](/organizations/shanghaichorus.jpeg)
 
 ### 风禾戏剧社
 
