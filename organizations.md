@@ -2,7 +2,7 @@
 title: 组织和社团
 description: 上科大的各种组织和社团信息
 published: true
-date: 2026-01-25T14:08:34.622Z
+date: 2026-01-25T14:40:42.144Z
 tags: organizations
 editor: markdown
 dateCreated: 2026-01-25T11:23:27.394Z
@@ -32,13 +32,13 @@ ACM社、Danceholic街舞社、DataTech（数据科学）、HiFi研究社、Igem
 
 *GeekPie科创工作室交流群*：217260786
 
-*官方网站*：<https://www.geekpie.club>
+*官方网站*：https://www.geekpie.club/
 
-*GitHub*：https://github.com/ShanghaitechGeekPie
+*GitHub*：https://github.com/ShanghaitechGeekPie/
 
-*开源镜像*：https://mirrors.shanghaitech.edu.cn
+*开源镜像*：https://mirrors.shanghaitech.edu.cn/
 
-*CourseBench*：https://coursebench.geekpie.club/
+*CourseBench*：https://coursebench.org/
 
 招新：详情关注招新海报，**欢迎有志愿参加HPC、CTF、Hackathon、FPGA、创客大赛等学术科创类竞赛的同学，与想要与我们一同开发像fresh、mirrors这样网站的同学与社长联系！**
 
