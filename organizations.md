@@ -2,7 +2,7 @@
 title: 组织和社团
 description: 上科大的各种组织和社团信息
 published: true
-date: 2026-01-25T13:09:50.349Z
+date: 2026-01-25T13:39:41.311Z
 tags: organizations
 editor: markdown
 dateCreated: 2026-01-25T11:23:27.394Z
@@ -24,7 +24,7 @@ ACM社、Danceholic街舞社、DataTech（数据科学）、HiFi研究社、Igem
 
 ### GeekPie
 
-![](media/37ece12e08756f0f751f4521592963f0.png)
+![geekpie.png](/organizations/geekpie.png)
 
 社团：GeekPie
 
@@ -44,9 +44,9 @@ ACM社、Danceholic街舞社、DataTech（数据科学）、HiFi研究社、Igem
 
 ### 程序设计竞赛社团(ACM)社
 
-![descript](media/clip_image002.jpg)
+![acm.jpg](/organizations/acm.jpg)
 
-上海科技大学程序设计竞赛社团(ACM社)是专注于算法竞赛的校级社团，有独立的场地、校级网站和校级邮箱。我们积极参加国际大学生程序设计竞赛(ICPC)、中国大学生程序设计竞赛(CCPC)等算法竞赛，也参与百度之星、飞桨等AI算法竞赛，在比赛中与全世界大学生同台竞技、相互交流。我们社团招募并培养全校最优秀的同学，聚集了一群有实力的算法热爱者。我们在各项比赛中斩获佳绩，赴全国各地参加比赛并获各层级比赛的金银铜奖无数。此外，我们也为广大师生服务：为多门课程提供评测服务，举办算法研讨会，举办多场优质的公开比赛。近年来，我们还与多所少儿编程机构展开长期深度合作，获得了广泛的当地知名度和认可度。“ACM”的三个字母分别代表 Algorithm （算法）, Code (代码) 和 Mathematics (数学)，我们的哲学是“TCS”，即Think(思考)，Create(创造) 和 Solve(解决)。无论你是已经是熟练的算法高手，还是富有激情的新人，我们都欢迎你加入ACM社团，共同探索复杂而美丽的算法世界！
+上海科技大学程序设计竞赛社团(ACM社)是专注于算法竞赛的校级社团，有独立的场地、校级网站和校级邮箱。我们积极参加国际大学生程序设计竞赛(ICPC)、中国大学生程序设计竞赛(CCPC)等算法竞赛，也参与百度之星、飞桨等AI算法竞赛，在比赛中与全世界大学生同台竞技、相互交流。我们社团招募并培养全校最优秀的同学，聚集了一群有实力的算法热爱者。我们在各项比赛中斩获佳绩，赴全国各地参加比赛并获各层级比赛的金银铜奖无数。此外，我们也为广大师生服务：为多门课程提供评测服务，举办算法研讨会，举办多场优质的公开比赛。近年来，我们还与多所少儿编程机构展开长期深度合作，获得了广泛的当地知名度和认可度。“ACM”的三个字母分别代表 Algorithm（算法），Code (代码) 和 Mathematics (数学)，我们的哲学是“TCS”，即Think(思考)，Create(创造) 和 Solve(解决)。无论你是已经是熟练的算法高手，还是富有激情的新人，我们都欢迎你加入ACM社团，共同探索复杂而美丽的算法世界！
 
 QQ群: 706461089(比赛交流群) 319071331(上科大ACM学术群)
 
@@ -60,7 +60,7 @@ QQ群: 706461089(比赛交流群) 319071331(上科大ACM学术群)
 
 ### DataTech
 
-![descript](media/DataTech-Logo.png)
+![datatech.png](/organizations/datatech.png)
 
 上海科技大学 DataTech 社团于2025年成立，是一个专注于数据科学竞赛与人工智能技术研究的学生组织。我们的队伍在 Kaggle 等国内外平台曾斩获诸多奖项。并且，我们曾举办过校内第一届“炼丹杯”数据科学与人工智能竞赛，吸引了近60位参与者。
 
@@ -72,7 +72,7 @@ QQ群：161981467
 
 ### SK8滑板社
 
-![](media/6789884f786659b7948f3a0beea2e029.jpeg)
+![sk8.jpeg](/organizations/sk8.jpeg)
 
 社团：SK8滑板
 
@@ -83,7 +83,7 @@ Club由上科大的板仔们建立，社团提供滑板教学，引领校园内�
 
 ### 物理社/SPS联合会
 
-![](media/6d9fd57f58cdac5a5f3feaf576e87b90.png)
+![physics.png](/organizations/physics.png)
 
 物理社旨在为上科大各专业的物理爱好者提供学术讨论与交流的平台。
 
@@ -95,7 +95,7 @@ QQ群：724996349
 
 ### Prism漫研社
 
-![](media/manyan_2022_01.jpg)
+![prism.jpg](/organizations/prism.jpg)
 
 Prism漫研社成立于2014年，是上科大最早的社团之一。目前社团有成员200多人，下属五个部门和多个小组。漫研社是一个综合文艺类社团，在动漫类社团的一般活动之外，还有由各个部门和小组带来的音乐、舞蹈、美术、摄影等丰富多彩的活动。
 
@@ -149,11 +149,11 @@ Prism漫研社成立于2014年，是上科大最早的社团之一。目前社�
 - 漫研2025招新群（QQ）：366816459
 - 社团微信公众号：上科大Prism漫研社
 
-![](media/prism_2025_qr.jpg)
+![prism_2025_qr.jpg](/organizations/prism_2025_qr.jpg)
 
 ### 栖鸿文学社
 
-![](media/image-20230719141815332.png)
+![qihong-1.png](/organizations/qihong-1.png)
 
 陌生人，你好啊！
 
@@ -167,11 +167,11 @@ Prism漫研社成立于2014年，是上科大最早的社团之一。目前社�
 
 远道而来的旅行者，如果你愿意，请与我们同行，在生活中遇见文学，在挣扎中遇见欢乐，在平凡中遇见永恒。
 
-![image-20230719142140752](media/image-20230719142140752.png)
+![qihong-2.png](/organizations/qihong-2.png)
 
 ### 跆拳道社
 
-![](media/79fd6384d1458446e244a35db59987ee.jpeg)
+![taiquandao.jpeg](/organizations/taiquandao.jpeg)
 
 社团：跆拳道
 
