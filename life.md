@@ -2,7 +2,7 @@
 title: 科大生活
 description: 上科大校园生活
 published: true
-date: 2026-01-26T09:20:14.968Z
+date: 2026-01-26T09:21:01.923Z
 tags: life
 editor: markdown
 dateCreated: 2026-01-25T11:22:33.994Z
@@ -51,4 +51,4 @@ dateCreated: 2026-01-25T11:22:33.994Z
 ## 快递与打印
 
 - **快递**：近邻宝（位于学生公寓底楼及教学区指定点）。
-- **打印**：全校自助打印点支持 PaperCut 系统，详见 [服务与技巧](/zh/skills) 页面。
+- **打印**：支持自助文印系统，详见 [服务与技巧](/zh/skills) 页面。
