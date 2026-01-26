@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^if \\[ -d \\.git \\]; then echo '\\.git exists'; else git init; fi && git remote remove origin 2>/dev/null \\|\\| true && git remote add origin https://github\\.com/ShanghaitechGeekPie/WikiTech\\.git && git fetch --all --tags --prune && git branch -r$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
