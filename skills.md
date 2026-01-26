@@ -2,7 +2,7 @@
 title: 服务与技巧
 description: 一些实用技能/服务拾遗
 published: true
-date: 2026-01-25T15:14:43.630Z
+date: 2026-01-26T01:43:15.781Z
 tags: skills, services
 editor: markdown
 dateCreated: 2026-01-25T15:07:37.358Z
@@ -70,7 +70,7 @@ sudo docker run --rm --device /dev/net/tun --cap-add NET_ADMIN -ti -e PASSWORD=8
 
 - 你顺利的拿到了链接，点击复制，在你宿主机（非 VNC 内）访问这个地址并登录，完成
 - 你没有拿到，有可能是因为弹出了强制更新等，那么请：
-	- 直接在外部访问 https://ids.shanghaitech.edu.cn/authserver/login?service=https%3A%2F%2Fvpn.shanghaitech.edu.cn%3A443%2Fpassport%2Fv1%2Fauth%2Fcas
+	- 直接在外部访问 [这个链接](https://ids.shanghaitech.edu.cn/authserver/login?service=https%3A%2F%2Fvpn.shanghaitech.edu.cn%3A443%2Fpassport%2Fv1%2Fauth%2Fcas)
   - 登录，一样可以完成
   
 之后，你可以使用代理等工具，将 `http://172.0.0.1:8888` 或者 `socks5://127.0.0.1:1080` 作为你的代理地址。
