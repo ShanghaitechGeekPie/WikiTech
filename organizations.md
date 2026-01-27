@@ -2,7 +2,7 @@
 title: 组织和社团
 description: 上科大的各种组织和社团信息
 published: true
-date: 2026-01-27T07:41:16.574Z
+date: 2026-01-27T07:50:12.490Z
 tags: organizations
 editor: markdown
 dateCreated: 2026-01-25T11:23:27.394Z
@@ -629,7 +629,7 @@ QQ群：854671035
 
 完美平台公会：CSGO@SHTU
 
-Steam组https://steamcommunity.com/groups/CSGO_ShanghaiTech
+Steam组：https://steamcommunity.com/groups/CSGO_ShanghaiTech
 
 ### 上海科技大学志愿者协会
 
@@ -653,9 +653,10 @@ Steam组https://steamcommunity.com/groups/CSGO_ShanghaiTech
 
 学生会官方微信公众号：上海科技大学学生会
 
-![](media/74a7c331f76097d3cfb754d70510823e.gif)
+![studentunion-1.gif](/organizations/studentunion-1.gif)
 
 上海科技大学第三次学生代表大会于2022年11月26日顺利召开，根据《中华全国学生联合会章程》《学联学生会组织改革方案》《上海市学生联合会关于健全上海高等学校学生代表大会制度的若干规定》，由上海科技大学学生代表大会直选产生学生常任代表委员会和学生会主席团。
+
 <!--
 #### _基本架构_
 
@@ -736,7 +737,7 @@ __新媒体部__
 
 配合各个部门完成学校各个活动的宣传、转播、舞台效果等任务。日常管理学生会公众号、微博、B站等公共平台，通过海报及上述平台及时传达校园信息。
 
-![](media/5b343e86b6d28cd31cc6fd15b971f0ac.jpg)
+![studentunion-2.jpg](/organizations/studentunion-2.jpg)
 
 上海科技大学学生会将在开学后启动招新，敬请期待！
 
@@ -746,7 +747,8 @@ __新媒体部__
 
 团委公众号：
 
-![descript](media/clip_image002-1689749567306-24.gif)
+![youth-1.gif](/organizations/youth-1.gif)
+
 <!--
 **团委组织架构及部长组成**
 
@@ -786,6 +788,7 @@ __新媒体部__
 
 李浥菲（部长）、许睿
 -->
+
 **部门介绍**
 
 **组织部**
@@ -846,7 +849,7 @@ __新媒体部__
 
 为深入贯彻学习习近平新时代中国特色社会主义思想，抓好青年马克思主义者群体中的关键少数，着力为党培养和输送一批具有忠诚的政治品格，浓厚的家国情怀，扎实的理论功底，突出的能力素质，忠恕任事、人品服众的青年政治骨干，上海科技大学第一期“青马工程”研修班招募了不同学院不同年级的本硕博团学骨干及学生共同学习党团精神，共三十余名学员参加。
 
-![](media/clip_image004.gif)
+![youth-2.gif](/organizations/youth-2.gif)
 
 **科普讲师团**
 
@@ -854,4 +857,4 @@ __新媒体部__
 
 截止23年6月，讲师团已经深入上海张江地区近十所中小学校开展了二十余次科普活动，活动结合授课与动手实践，覆盖对象上千人次。在开展活动的同时，讲师团也在课程质量打磨、特殊儿童科普、团队可持续发展等方面做了积极的努力。
 
-**![](media/clip_image010.gif)**
+![youth-3.gif](/organizations/youth-3.gif)
