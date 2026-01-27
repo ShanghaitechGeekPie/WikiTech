@@ -2,7 +2,7 @@
 title: 教学机构和建筑
 description: 这里介绍了学校的教学机构与建筑
 published: true
-date: 2026-01-25T16:07:40.769Z
+date: 2026-01-27T05:18:57.743Z
 tags: facility
 editor: markdown
 dateCreated: 2026-01-25T11:20:33.405Z
@@ -35,13 +35,13 @@ dateCreated: 2026-01-25T11:20:33.405Z
 
 网站：[https://spst.shanghaitech.edu.cn](https://spst.shanghaitech.edu.cn)
 
-## 生命科学与技术学院 SLST
+### 生命科学与技术学院 SLST
 
 上海科技大学生命科学与技术学院的设立是以解决人类健康相关的科学问题为宗旨，以打造一所达到国际高水准的研究型学院为目标。学院地处被誉为中国“药谷”的张江高科技园区，这里聚集了大量国内外医药研发企业，利用张江地区的多学科研究力量和生物医药研发优势，同时从国内外大力引进生命科学基础研究优秀人才，积极探索教学、科研、转化三者相结合的发展模式，助力建设上海张江综合性国家科学中心，培养适应未来生命科学发展的高端研究人才，以及满足健康医学需求的新型技术人才。
 
 网站：[https://slst.shanghaitech.edu.cn](https://slst.shanghaitech.edu.cn)
 
-## [信息科学与技术学院 SIST](/zh/facility/SIST)
+### [信息科学与技术学院 SIST](/zh/facility/SIST)
 
 旗舰学术会议：Annual ShanghaiTech Symposium on Information Science and Technology (ASSIST)、ShanghaiTech Workshop on Emerging Devices, Circuits and Systems (SWEDCS)
 
@@ -53,26 +53,26 @@ _信息学院主办国际学术会议：_[SSIST](http://ssist.shanghaitech.edu.c
 
 _信息学院民间slack交流频道：_[click here](https://join.slack.com/t/shanghaitech-sist/shared_invite/zt-91yp1eeb-dMT5sXyuxDWQXJzBUGwrgg)
 
-## 创业与管理学院 SEM
+### 创业与管理学院 SEM
 
 创业与管理学院（简称：创管学院）是为实现上海科技大学“培养创新创业人才”的办学使命而搭建的教育服务平台。
 
 网站：[https://sem.shanghaitech.edu.cn](https://sem.shanghaitech.edu.cn)
 
-## 创意与艺术学院 SCA
+### 创意与艺术学院 SCA
 
 创意与艺术学院致力于以领先科技推动艺术领域的创新。除了推动创意与艺术类课程（如绘画、游戏制作、剧本写作等）的建设，还积极在校园内外开展各类活动（创艺·说系列讲座、电影放映、校内展览、校外展览集体参观），并支持艺术类社团（如管弦乐团）的发展和成长。除此之外，创意与艺术学院还面向社会开设有与南加州大学合作的电影影视类非学历课程。
 
 网站：[https://sca.shanghaitech.edu.cn](https://sca.shanghaitech.edu.cn)
 
-## 生物医学工程学院 BME
+### 生物医学工程学院 BME
 
 上海科技大学生物医学工程学院 (BME School)于2020年10月正式成立，创始院长由国际著名医学影像 AI
 专家沈定刚教授担任。学院将服务于国家科技创新与健康中国两项重大战略，对接国家和地方健康科技发展、产业升级的迫切需求，建设多学科交叉融合的生物医学工程创新平台，致力于产生国际公认的原创成果并形成科创转化临床应用。
 
 网站：[https://bme.shanghaitech.edu.cn](https://bme.shanghaitech.edu.cn)
 
-## 免疫化学研究所 SIAIS
+### 免疫化学研究所 SIAIS
 
 旗舰学术会议：ShanghaiTech-SIAIS BioForum
 
@@ -80,7 +80,7 @@ _信息学院民间slack交流频道：_[click here](https://join.slack.com/t/sh
 
 网站：[https://siais.shanghaitech.edu.cn/](https://siais.shanghaitech.edu.cn/)
 
-## iHuman研究所
+### iHuman研究所
 
 旗舰学术会议：iHuman Forum
 
@@ -88,13 +88,13 @@ iHuman研究所是隶属于上海科技大学的一个国际化的高水平研�
 
 网站：http://ihuman.shanghaitech.edu.cn
 
-## 数学科学研究所 IMS
+### 数学科学研究所 IMS
 
 上海科技大学数学科学研究所以造就新一代数学和应用数学领域的独创型人才为使命，借着上乘的教学和科研，促进数学的发展。为从全球招募而来的数学各个学科的青年才俊和知名专家提供理想的科研和教学环境，为有志于基础数学和应用数学理论研究以及数学应用人才提供严格和系统的训练。
 
 网站：https://ims.shanghaitech.edu.cn/
 
-## 人文科学研究院
+### 人文科学研究院
 
 人文科学研究院是上海科技大学文科建设的主要平台，它的目标同样是建设成为小规模、高水平、国际化的教学和科研机构。研究院力图打破传统的学术壁垒，侧重跨学科、跨国别、贯穿古今中外的综合研究，以融会贯通和兼收并蓄的视野和胸怀研究前沿、高端的学问为己任。
 
