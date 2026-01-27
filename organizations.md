@@ -2,7 +2,7 @@
 title: 组织和社团
 description: 上科大的各种组织和社团信息
 published: true
-date: 2026-01-25T16:39:09.447Z
+date: 2026-01-27T07:41:16.574Z
 tags: organizations
 editor: markdown
 dateCreated: 2026-01-25T11:23:27.394Z
@@ -430,16 +430,18 @@ Oi！不是，上科大那个呀？
 
 “风禾”取字“山止川行，风禾尽起”，意为顺应天意，行无所阻。风禾戏剧社因热爱而诞生，因巧合的相遇而萌芽，取字“风禾”不忘热爱、不忘命运作巧。意却不限于“风禾”，舞台和聚光灯之下我们仍有许多需要进步，仍有许多需要探索创新，因为热爱与坚持所以我们行无所阻。我们也期待着更多热爱戏剧、热爱表演的同学加入风禾，期待社团生活能为你的生活增添一抹亮色！
 
+<!--
 ![风禾戏剧社活动照片1](media/FengheDrama20250809-1.jpg)
 ![风禾戏剧社活动照片2](media/FengheDrama20250809-2.jpg)
 ![风禾戏剧社活动照片3](media/FengheDrama20250809-3.jpg)
 ![风禾戏剧社活动照片4](media/FengheDrama20250809-4.jpg)
+-->
 
 更多信息及加入请联系QQ群：835165598
 
 ### 上科大管弦乐团
 
-![](media/498186bbea441c64303c8b30302c07f9.png)
+![orchestra.png](/organizations/orchestra.png)
 
 上海科技大学管弦乐团成立于2016年11月2日，含弦乐、管乐、打击乐、键盘等声部。乐团由学生自主管理，是一个充满科学气息、拥有艺术灵魂的集体。我们始终坚持的目标是为同学们带来更多更好的音乐体验，传递古典乐的美妙和魅力。与此同时，我们也非常重视同学们的综合素质培养，希望能通过音乐的力量，让同学们成为全面发展、富有创造力和想象力的人才。
 
@@ -469,19 +471,19 @@ Oi！不是，上科大那个呀？
 
 无门槛交流合作整活分享群：772906433
 
-![](media/clip_image002.gif)
+![orchestra-1.gif](/organizations/orchestra-1.gif)
 
 2023上科大管弦乐团招新群：894040697
 
-![](media/clip_image004.jpg)
+![orchestra-2.jpg](/organizations/orchestra-2.jpg)
 
 We need you to witness our glory, past, now and future. 期待你的加入！
 
-![descript](media/clip_image006.jpg)
+![orchestra-3.jpg](/organizations/orchestra-3.jpg)
 
 ### 音乐社
 
-![标题: fig:](media/clip_image002-1689748853527-5.gif)
+![music-1.gif](/organizations/music-1.gif)
 
 上海科技大学音乐社从属于科道书院，是校内音乐爱好者组成的学生社团。作为最早创立的社团之一，音乐社主要作为同学们交流音乐的平台，同时举办演出、交流、欣赏等活动，始终保持开放的态度和管理团队共同决策的模式。
 
@@ -511,11 +513,11 @@ Bilibili账号：上海科技大学音乐社
 
 音乐社交流群：311957297
 
-### ![descript](media/clip_image004-1689748853527-7.jpg)
+![music-2.jpg](/organizations/music-2.jpg)
 
-![descript](media/clip_image006-1689748853527-6.jpg)
+![music-3.jpg](/organizations/music-3.jpg)
 
-![descript](media/clip_image008.jpg)
+![music-4.jpg](/organizations/music-4.jpg)
 
 ### Danceholic 街舞社
 
@@ -523,7 +525,7 @@ Bilibili账号：上海科技大学音乐社
 
 ### 极限飞盘社
 
-![](media/05fd40b240e5d623011107946b0d9c0c.png)
+![frisbee.png](/organizations/frisbee.png)
 
 极限飞盘社成立于2017年9月，下属上科大可积飞盘队，队内现有核心队员20余名，每周固定训练一次。曾多次外出参加比赛，在第四届全国大学生极限飞盘联赛预选赛中获得华东地区第七名。曾举办过三次科大杯极限飞盘交流赛，其中第三届分组赛吸引了上百名选手参加。
 
@@ -533,7 +535,7 @@ Bilibili账号：上海科技大学音乐社
 
 ### 上科大橄榄球俱乐部
 
-![descript](media/clip_image002-1689748993782-12.jpg)
+![flagfootball-1.jpg](/organizations/flagfootball-1.jpg)
 
 俱乐部社团正在筹建中，欢迎对橄榄球感兴趣的小伙伴加入，一起玩耍腰旗橄榄球(Flag Football)！美式橄榄球兴起于哈佛、耶鲁、普林斯顿等常春藤名校，而脱胎于美式橄榄球的腰旗橄榄球是一项新手友好，对抗小，注重团队配合，男女均可参加的户外运动。
 
@@ -541,15 +543,15 @@ Bilibili账号：上海科技大学音乐社
 
 部分活动训练照片如下，期待新同学们的加入！
 
-![descript](media/clip_image002-1689749005660-15.jpg)
+![flagfootball-2.jpg](/organizations/flagfootball-2.jpg)
 
-![descript](media/clip_image004-1689749005660-14.jpg)
+![flagfootball-3.jpg](/organizations/flagfootball-3.jpg)
 
 ### 排球俱乐部
 
 无论你是初学还是精通，只要你有一颗热爱排球的心，我们就是一家人！
 
-![](media/6c0993efe7d4b0ec7689bc8eb2827648.png)
+![volleyball-1.png](/organizations/volleyball-1.png)
 
 上科大排协公众号
 
@@ -563,9 +565,11 @@ Bilibili账号：上海科技大学音乐社
 
 我们每学期也会代表学校参加上海市的排球高校联赛，虽然我们还是一支年轻的队伍，但是从来不会轻言放弃！
 
+<!--
 ![](media/60555f45f26e2267c68a489f4f64cde1.png)
 
 与海洋和海关的共同训练
+-->
 
 我们期待着每一位新同学的加入！
 
@@ -581,11 +585,11 @@ Bilibili账号：上海科技大学音乐社
 
 足球俱乐部合照
 
-![](media/d4cb3a55b800d275ac8ac10b46310fe9.jpeg)
+<!--![](media/d4cb3a55b800d275ac8ac10b46310fe9.jpeg)-->
 
-篮球俱乐部合照——
+篮球俱乐部合照
 
-![](media/5755d25ee728397dc87eb69597370f5d.png)
+![basketball.png](/organizations/basketball.png)
 
 ### 上科大学生职业发展协会
 
@@ -593,13 +597,13 @@ Bilibili账号：上海科技大学音乐社
 
 社团现已组织了企业参观、企业嘉宾沙龙讲座等活动，为同学们认知行业、认知自己的职业生涯发展提供了最直接的交流机会；社团也协办了学校的一些大型活动，通过参与这些活动为很多同学提供了接触企业界的机会；社团注重成员自我能力提升，举办成员培训，针对社团和成员的发展问题寻找解决方案。
 
-_![](media/58b86e7804db8b8764c2cd46c37e7c94.jpeg)_
+![career-1.jpeg](/organizations/career-1.jpeg)
 
-_（一次关于自我认知的生涯发展午间沙龙）_
+（一次关于自我认知的生涯发展午间沙龙）
 
-_有兴趣可加qq群：_
+有兴趣可加qq群：
 
-_![](media/30c5fecc9bc6ed01609fcba6f17ac484.jpeg)_
+![career-2.jpeg](/organizations/career-2.jpeg)
 
 ### **Magician战队**
 
@@ -613,7 +617,7 @@ robomaster官网：https://www.robomaster.com/zh-CN
 
 Magician2024招新群：747216887
 
-![img](media/clip_image002-1689749182038-18.jpg)
+![magician.jpg](/organizations/magician.jpg)
 
 ### **CSGO@ShanghaiTech**
 
@@ -633,7 +637,9 @@ Steam组https://steamcommunity.com/groups/CSGO_ShanghaiTech
 
 上科大志协受学校、书院的管理，遵从社团章程，以“奉献、友爱、互助、进步”为服务精神，以“自我管理、自我教育、自我服务”“服务他人、完善自我”为行为准则，为社会和全校师生提供志愿服务，为推动校园文化风貌建设作出贡献。
 
-![descript](media/clip_image002-1689749261366-20.jpg)![descript](media/clip_image004-1689749261366-21.jpg)
+![volunteer-1.jpg](/organizations/volunteer-1.jpg)
+
+![volunteer-2.jpg](/organizations/volunteer-2.jpg)
 
 ## 学生组织
 
