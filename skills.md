@@ -2,7 +2,7 @@
 title: 服务与技巧
 description: 一些实用技能/服务拾遗
 published: true
-date: 2026-01-28T14:54:07.371Z
+date: 2026-01-28T15:12:07.401Z
 tags: skills, services
 editor: markdown
 dateCreated: 2026-01-25T15:07:37.358Z
@@ -129,7 +129,7 @@ sudo docker run --rm --device /dev/net/tun --cap-add NET_ADMIN -ti -e PASSWORD=8
 
 在内网传输文件有很多种办法，但注意在使用公共电脑**记得登出账号**，因此我们更推荐无账号的传输服务。
 
-- GeekPie Drop（推荐，校内专用）：在公共电脑上打开 https://drop.geekpie.club 即可，类似 AirDrop，无需登录，只需临时配对并发送文件即可
+- GeekPie Drop^[由 GeekPie 维护并支持，详情请见 https://geekpie.club]（推荐，校内专用）：在公共电脑上打开 https://drop.geekpie.club 即可，类似 AirDrop，无需登录，只需临时配对并发送文件即可
 - 微信文件传输助手：https://filehelper.weixin.qq.com/ ，**记得登出**
 - QQ：不推荐，没有分离的文件传输
 
