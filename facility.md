@@ -2,7 +2,7 @@
 title: 教学机构和建筑
 description: 这里介绍了学校的教学机构与建筑
 published: true
-date: 2026-01-27T05:18:57.743Z
+date: 2026-01-30T08:06:57.960Z
 tags: facility
 editor: markdown
 dateCreated: 2026-01-25T11:20:33.405Z
@@ -41,11 +41,11 @@ dateCreated: 2026-01-25T11:20:33.405Z
 
 网站：[https://slst.shanghaitech.edu.cn](https://slst.shanghaitech.edu.cn)
 
-### [信息科学与技术学院 SIST](/zh/facility/SIST)
+### 信息科学与技术学院 SIST
 
 旗舰学术会议：Annual ShanghaiTech Symposium on Information Science and Technology (ASSIST)、ShanghaiTech Workshop on Emerging Devices, Circuits and Systems (SWEDCS)
 
-信息科学与技术学院（School of Information Science and Technology）致力于聚集和成就未来信息科学领域的学术大师，培养和团结信息技术及相关应用领域的创新人才和创业领袖，力争在信息科学与技术的重点领域取得突破性和前沿性的创新成果，实现新科学和新技术的快速转化和产业化，孕育并服务于信息通信领域的国际领军高科技企业。
+信息科学与技术学院（School of Information Science and Technology）致力于聚集和成就未来信息科学领域的学术大师，培养和团结信息技术及相关应用领域的创新人才和创业领袖，力争在信息科学与技术的重点领域取得突破性和前沿性的创新成果，实现新科学和新技术的快速转化和产业化，孕育并服务于信息通信领域的国际领军高科技企业。 [查看详情](/zh/facility/SIST)
 
 网站：[https://sist.shanghaitech.edu.cn](https://sist.shanghaitech.edu.cn)
 
