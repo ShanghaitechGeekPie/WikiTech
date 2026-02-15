@@ -1,8 +1,8 @@
 ---
 title: 黄页
-description: 上科大公开的联系方式整合页
+description: 上科大公开的地址与联系方式整合页
 published: true
-date: 2026-02-15T16:39:09.433Z
+date: 2026-02-15T16:39:33.383Z
 tags: contact
 editor: markdown
 dateCreated: 2026-01-25T11:21:43.790Z
