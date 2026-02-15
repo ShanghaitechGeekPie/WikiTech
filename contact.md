@@ -2,13 +2,13 @@
 title: 黄页
 description: 上科大公开的联系方式整合页
 published: true
-date: 2026-01-25T14:36:22.500Z
+date: 2026-02-15T16:39:09.433Z
 tags: contact
 editor: markdown
 dateCreated: 2026-01-25T11:21:43.790Z
 ---
 
-# 黄页
+# 地图和黄页
 
 ## 学校地址
 
@@ -20,6 +20,11 @@ dateCreated: 2026-01-25T11:21:43.790Z
 	- 地址：上海市徐汇区岳阳路319号8号楼
   - 邮编：200031
   - 319 Yueyang Road, Xuhui District, Shanghai, 200031
+  
+## 学校地图
+
+- [OpenStreetMap（最详细，可能需要魔法）](https://www.openstreetmap.org/#map=17/31.178849/121.590543&layers=N)
+- [上科大官方网页地图](https://map.shanghaitech.edu.cn)
 
 ## 机构和院所
 
