@@ -2,7 +2,7 @@
 title: 服务与技巧
 description: 一些实用技能/服务拾遗
 published: true
-date: 2026-01-28T15:12:07.401Z
+date: 2026-03-02T17:30:02.591Z
 tags: skills, services
 editor: markdown
 dateCreated: 2026-01-25T15:07:37.358Z
@@ -45,6 +45,17 @@ dateCreated: 2026-01-25T15:07:37.358Z
 	- 一般重新修改密码会关联到无线网络的密码修改，但相关延迟从数小时到几天不等，建议是**除非你的设备被强制下线，否则不要手动断开连接或忘记网络**。在特殊活动前记得提前修改密码，以免出现恰好无法登录无线服务的情况。
 
 如有其他情况，请立刻拨打图书与信息中心 7x24 服务热线 `021-20685566`，或者电邮到 it-support@shanghaitech.edu.cn。
+
+#### 连接校园网后，学校网站打不开了？
+
+很多同学在使用校园网时经常会遇到这个问题：在使用代理的情况下，`*.shanghaitech.edu.cn`无法访问，提示`connection reset`，导致谷歌等网站和校内网站不能同时被访问。根本原因是：代理工具（例如 Clash 等）配置的公网 DNS 无法正确解析校内域名，返回了错误的公网 IP，导致连接被 reset。加了 nameserver-policy 后，校内域名会走校内 DNS 服务器解析，拿到正确的内网地址。
+
+推荐做三处改动：
+  1. rules — 加了 DOMAIN-SUFFIX,shanghaitech.edu.cn,DIRECT，让校内流量走直连
+  2. fake-ip-filter — 加了 *.shanghaitech.edu.cn，避免返回假 IP
+  3. nameserver-policy — 加了 +.shanghaitech.edu.cn 指向校内 DNS 10.15.44.11，这是关键修复
+
+
 
 ### 返校 VPN
 
