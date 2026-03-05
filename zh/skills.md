@@ -2,19 +2,17 @@
 title: 服务与技巧
 description: 一些实用技能/服务拾遗
 published: true
-date: 2026-03-05T09:10:56.522Z
+date: 2026-03-05T17:23:21.470Z
 tags: skills, services
 editor: markdown
 dateCreated: 2026-01-25T15:07:37.358Z
 ---
 
-# 服务与技巧
+# 网络服务
 
-## 网络服务
+## 校园网
 
-### 校园网
-
-#### Wi-Fi/有线网认证指南
+### Wi-Fi/有线网认证指南
 
 这里介绍关于[上海科技大学网络服务](https://it.shanghaitech.edu.cn/wlfw/list.htm)的认证配置。
 
@@ -46,7 +44,7 @@ dateCreated: 2026-01-25T15:07:37.358Z
 
 如有其他情况，请立刻拨打图书与信息中心 7x24 服务热线 `021-20685566`，或者电邮到 it-support@shanghaitech.edu.cn。
 
-#### 连接校园网后，学校网站打不开了？
+### 连接校园网后，学校网站打不开了？
 
 很多同学在使用校园网时经常会遇到这个问题：在使用代理的情况下，`*.shanghaitech.edu.cn`无法访问，提示`connection reset`，导致谷歌等网站和校内网站不能同时被访问。根本原因是：代理工具（例如 Clash 等）配置的公网 DNS 无法正确解析校内域名，返回了错误的公网 IP，导致连接被 reset。加了 nameserver-policy 后，校内域名会走校内 DNS 服务器解析，拿到正确的内网地址。
 
@@ -55,15 +53,13 @@ dateCreated: 2026-01-25T15:07:37.358Z
   2. fake-ip-filter — 加了 *.shanghaitech.edu.cn，避免返回假 IP
   3. nameserver-policy — 加了 +.shanghaitech.edu.cn 指向校内 DNS 10.15.44.11，这是关键修复
 
+## 返校 VPN
 
-
-### 返校 VPN
-
-#### 使用 ATrust 客户端（手机/Windows/MacOS/部分 Linux）
+### 使用 ATrust 客户端（手机/Windows/MacOS/部分 Linux）
 
 具体参阅图信的 [电子资源校外访问](https://library.shanghaitech.edu.cn/4032/list.htm) 指南和附件 [20250107-上海科技大学校园VPN接入使用指南.pdf](https://library.shanghaitech.edu.cn/_upload/article/files/e1/cd/e09fb90d42129fbcee06bfe7ffc6/f6ee0aa5-8ef9-4e94-bd09-d24168fd6026.pdf)
 
-#### 使用 Docker
+### 使用 Docker
 
 由于 ATrust ~~过于流氓~~ 我们这里介绍一种使用 VPN 的方法，感谢开源项目 `hagb/docker-atrust`
 
@@ -86,9 +82,9 @@ sudo docker run --rm --device /dev/net/tun --cap-add NET_ADMIN -ti -e PASSWORD=8
   
 之后，你可以使用代理等工具，将 `http://172.0.0.1:8888` 或者 `socks5://127.0.0.1:1080` 作为你的代理地址。
 
-## 校园邮箱
+# 校园邮箱
 
-### 邮箱客户端配置指南
+## 邮箱客户端配置指南
 
 在 https://mail.shanghaitech.edu.cn 最上方的 [帮助中心](https://mail.shanghaitech.edu.cn/coremail/help/index_zh_CN.jsp) 里可见详细的配置指南。
 
@@ -118,15 +114,15 @@ sudo docker run --rm --device /dev/net/tun --cap-add NET_ADMIN -ti -e PASSWORD=8
 
 日后登录时只需要选择 CoreMail APP 验证码，填写你从认证器获取的 TOTP 代码即可。
 
-## 正版软件
+# 正版软件
 
 学校为在校师生购买了多种正版软件授权，可通过 [软件管理服务平台-软件清单](https://software.shanghaitech.edu.cn/#/soft) 页面下载。
 
-## 自助文印服务
+# 自助文印服务
 
 学校在图书馆（如 1F 104 室）、教学区、宿舍楼等公共区域设有自助文印一体机，支持打印、复印和扫描服务。
 
-### 收费标准
+## 收费标准
 
 | 纸张规格 | 颜色 | 复印/打印 | 扫描 |
 | :--- | :--- | :--- | :--- |
@@ -135,22 +131,22 @@ sudo docker run --rm --device /dev/net/tun --cap-add NET_ADMIN -ti -e PASSWORD=8
 | **A3** | 黑白 | 0.16 元/页 | **免费** |
 | **A3** | 彩色 | 1.2 元/页 | **免费** |
 
-### 准备工作
+## 准备工作
 
 在使用自助文印前，需要先完成**身份注册**并安装客户端。
 
-#### 1. 身份注册
+### 1. 身份注册
 - **PC 端注册（推荐）**：连接校内网，打开“易安 (esafe) 自助打印复印系统 - 学生端”，点击“注册”，输入服务器 `print.shanghaitech.edu.cn`、学号/工号、姓名及自定义密码。
 - **一体机端注册**：在文印机操作面板点击“注册”，按提示输入学号和密码。
 
-#### 2. 驱动与客户端下载
+### 2. 驱动与客户端下载
 - **下载地址**：[软件管理服务平台 - 自助文印系统](https://software.shanghaitech.edu.cn/#/softdetail?id=83)（仅限校内网访问）。
 - **服务器地址**：`print.shanghaitech.edu.cn`。
 - **配置提醒**：若安装后无法连接，请检查 `C:\SpoolPrintJob` 文件夹并确保你有访问/读写权限。
 
-### 操作流程
+## 操作流程
 
-#### 传输文件
+### 传输文件
 
 在内网传输文件有很多种办法，但注意在使用公共电脑**记得登出账号**，因此我们更推荐无账号的传输服务。
 
@@ -158,18 +154,18 @@ sudo docker run --rm --device /dev/net/tun --cap-add NET_ADMIN -ti -e PASSWORD=8
 - 微信文件传输助手：https://filehelper.weixin.qq.com/ ，**记得登出**
 - QQ：不推荐，没有分离的文件传输
 
-#### 自助打印
+### 自助打印
 1. **提交任务**：在 PC 上登录客户端，打开文档并选择打印，打印机选择 **`FonYuanXPSPrinter`**。
 2. **刷卡登录**：前往任意一台自助一体机，将校园卡放置在刷卡区（**务必保留直到扣费结束**）。
 3. **输出文档**：点击屏幕上的“打印”，选择你的任务并确认。
 4. **扣费退出**：等待扣费成功提示后，取回校园卡。
 
-#### 自助复印
+### 自助复印
 1. **刷卡登录**：放卡。
 2. **选择复印**：在屏幕选择复印功能，调整参数。
 3. **完成退出**：取走文稿，取回卡。
 
-#### 自助扫描
+### 自助扫描
 1. **插入 U 盘**：建议容量不超过 8GB。
 2. **刷卡操作**：在屏幕选择扫描功能，通常路径为“扫描到外部记忆体”。
 3. **获取文件**：完成扫描后取走 U 盘和校园卡。扫描服务目前**免费**。
