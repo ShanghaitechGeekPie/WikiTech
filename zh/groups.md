@@ -2,7 +2,7 @@
 title: 群聊相关
 description: 上科大的各种常用群聊
 published: true
-date: 2026-03-05T13:08:29.881Z
+date: 2026-03-05T13:09:21.923Z
 tags: groups
 editor: markdown
 dateCreated: 2026-01-25T11:26:33.946Z
@@ -33,5 +33,7 @@ dateCreated: 2026-01-25T11:26:33.946Z
 - 上科大琴房群 QQ群 796937432
 - 非正式桌游社 QQ群 894629762
 - 上科大科幻爱好者 QQ群 123437506
+- 上科大MUG(音游)手残群 QQ群 490059120
+- 上科大音游屋 QQ群 830902867
 - SIST
   Slack:https://join.slack.com/t/shanghaitech-sist/shared_invite/zt-91yp1eeb-dMT5sXyuxDWQXJzBUGwrgg
