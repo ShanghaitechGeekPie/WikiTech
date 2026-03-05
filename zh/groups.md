@@ -2,7 +2,7 @@
 title: 群聊相关
 description: 上科大的各种常用群聊
 published: true
-date: 2026-03-05T13:07:49.288Z
+date: 2026-03-05T13:08:29.881Z
 tags: groups
 editor: markdown
 dateCreated: 2026-01-25T11:26:33.946Z
@@ -23,7 +23,7 @@ dateCreated: 2026-01-25T11:26:33.946Z
 - Surface-Tech QQ群（说是Surface群，其实是Microsoft产品讨论群） 316617658
 - ShanghaiMac QQ群（说是Mac群，其实是Apple产品讨论群） 364738521
 - Nintendo Power QQ群 273215657 （任天堂主机以及游戏交流群）
-- 上科大狼人杀群 QQ群 878796656 和 714286975
+- 上科大狼人杀群 QQ群 878796656（副群） 和 714286975 （主群）
 - 上科大血染钟楼群（别名 血染物质塔） QQ群 714286975
 - 并没有什么人的音游群 QQ群 490059120
 - ShanghaiTech Outing Club QQ群 112149009
