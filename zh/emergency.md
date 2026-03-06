@@ -2,7 +2,7 @@
 title: 应急
 description: 应急处理和自救指南
 published: true
-date: 2026-03-06T02:25:59.985Z
+date: 2026-03-06T02:30:23.039Z
 tags: emergency
 editor: markdown
 dateCreated: 2026-01-25T11:31:52.631Z
@@ -27,6 +27,8 @@ dateCreated: 2026-01-25T11:31:52.631Z
 被困电梯、寝室报修等事宜可直接拨打校园服务中心；紧急状况需要医疗处置，可以拨打医务室电话；安全问题紧急求救可以拨打校园安保中心。
 
 # AED 分布和地图
+
+校内的AED设备共有12处，地图分布如下：
 
 ![365095fac5c301f6f08a19657dd79750.jpg](/emergency/365095fac5c301f6f08a19657dd79750.jpg)
 
