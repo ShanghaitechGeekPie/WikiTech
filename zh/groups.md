@@ -2,13 +2,13 @@
 title: 群聊相关
 description: 上科大的各种常用群聊
 published: true
-date: 2026-03-05T13:11:32.675Z
+date: 2026-03-06T02:34:14.003Z
 tags: groups
 editor: markdown
 dateCreated: 2026-01-25T11:26:33.946Z
 ---
 
-# 群聊相关
+# 群聊
 
 ## 生活类群
 
