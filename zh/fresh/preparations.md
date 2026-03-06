@@ -2,7 +2,7 @@
 title: 入学准备
 description: 一些新生必备的前置信息和操作
 published: true
-date: 2026-03-05T12:02:09.847Z
+date: 2026-03-06T03:37:15.095Z
 tags: fresh, preparations
 editor: markdown
 dateCreated: 2026-01-25T10:54:49.757Z
@@ -63,7 +63,7 @@ dateCreated: 2026-01-25T10:54:49.757Z
 
 对于来自外地的同学而言如果已经在当地使用了不计漫游、长途、外地流量的手机号，那么也可以选择在上海直接使用现有的号码（三大运营商宣布从 2018 年 7 月 1日起全面取消通话以及流量等漫游费用，不含港澳台，且均支持异地补卡业务，详情请咨询运营商）。
 
-目前三大运营商在学校室外都有良好的 4G/5G 信号，学校在室内已经基本全范围覆盖 SSID 为 `ShanghaiTech`、`ShanghaiTech-Guest` 和 `eduroam` 等可用 Wi-Fi，配置方法详见 Wi-Fi 配置指南。
+目前三大运营商在学校室外都有良好的 4G/5G 信号，学校在室内已经基本全范围覆盖 SSID 为 `ShanghaiTech`、`ShanghaiTech-Guest` 和 `eduroam` 等可用 Wi-Fi，配置方法详见 [Wi-Fi 配置指南](https://wiki.geekpie.club/zh/skills)。
 
 ### 银行卡/校园卡
 
