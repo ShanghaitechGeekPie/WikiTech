@@ -704,7 +704,6 @@ Steam组：https://steamcommunity.com/groups/CSGO_ShanghaiTech
 > - 新媒体部
 >
 > 部长：陈  瑜 副部长：海馨月
--->
 
 ### 部门介绍
 

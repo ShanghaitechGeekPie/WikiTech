@@ -45,12 +45,12 @@ dateCreated: 2026-01-25T11:22:33.994Z
 
 本科生宿舍一般是三人间，上床下桌，基本为全实木家具。身高过高的同学有几率可以分到两人间。宿舍内部带淋浴设施，有洗漱台盆。家具尺寸如图所示：
 
-![]( /zh/media/7c996f4b3aa0e46a8d2dd46f1620f400.jpeg)
+![](/zh/media/7c996f4b3aa0e46a8d2dd46f1620f400.jpeg)
 
 研究生宿舍为两人间，带独立卫浴、大衣柜、书桌和书架，配备了落地玻璃窗以及凹式阳台。宿舍内的实木单人床尺寸一般为1m\*1.9m，床板下可储藏衣物。部分特殊位置如转角等房间布局可能不同，桌子、床、衣柜大小亦可能不同）
 
 ![yy1](/zh/media/yy1.jpg)
-<!-- FIXME: yy1.jpg, yy2.jpg, yy3.jpg missing from source -->
+
 ![yy1](/zh/media/yy2.jpg)
 
 ![yy1](/zh/media/yy3.jpg)
