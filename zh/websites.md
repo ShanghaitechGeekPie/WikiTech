@@ -2,10 +2,10 @@
 title: 常用网站
 description: 校内外常用网站
 published: true
-date: 2026-05-11T10:32:36.491Z
+date: 2026-05-13T15:29:45.762Z
 tags: websites
 editor: markdown
-dateCreated: 2026-01-25T11:24:35.368Z
+dateCreated: 2026-05-13T02:42:08.560Z
 ---
 
 # 校内常用网站
@@ -90,8 +90,10 @@ dateCreated: 2026-01-25T11:24:35.368Z
 
 - CS自学指南 <https://csdiy.wiki/>
 
-- 全国街机音游地图 <https://map.bemanicn.com/>
+- 中国大学MOOC <https://www.icourse163.org/>
 
-- 中国大学MOOC https://www.icourse163.org/
-- 国家哲学社会科学文献中心 http://www.ncpssd.org/
-- Sci-Hub http://www.sci-hub.ren/
+- 国家哲学社会科学文献中心 <http://www.ncpssd.org/>
+
+- Sci-Hub <http://www.sci-hub.ren/>
+
+- ~~全国街机音游地图 <https://map.bemanicn.com/>~~
