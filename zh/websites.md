@@ -2,7 +2,7 @@
 title: 常用网站
 description: 校内外常用网站
 published: true
-date: 2026-05-13T15:29:45.762Z
+date: 2026-05-13T15:39:02.588Z
 tags: websites
 editor: markdown
 dateCreated: 2026-05-13T02:42:08.560Z
@@ -19,13 +19,14 @@ dateCreated: 2026-05-13T02:42:08.560Z
 - 书院：<https://life.shanghaitech.edu.cn/>
 - 校园服务平台Egate: <https://egate.shanghaitech.edu.cn/>
 - 图书馆电子数据库目录: <https://library.shanghaitech.edu.cn/>
-- 信息公开网：[https://openinfo.shanghaitech.edu.cn](https://openinfo.shanghaitech.edu.cn/)
+- 信息公开网：<https://openinfo.shanghaitech.edu.cn>
 <!--- 活动成就签到系统：<https://grade.geekpie.club> -->
 - `CourseBench` 评课社区：<https://coursebench.org/>
-- 开源镜像站：https://mirrors.shanghaitech.edu.cn/
-- 教学管理系统：https://eams.shanghaitech.edu.cn/
-- 上科大云盘：https://epan.shanghaitech.edu.cn （仅限校内访问）
-- 上海科技大学知识管理系统（KMS）：https://kms.shanghaitech.edu.cn/
+- 开源镜像站：<https://mirrors.shanghaitech.edu.cn/>
+- 教学管理系统：<https://eams.shanghaitech.edu.cn/>
+- 上科大云盘：<https://epan.shanghaitech.edu.cn> （仅限校内访问）
+- 上海科技大学知识管理系统（KMS）：<https://kms.shanghaitech.edu.cn/>
+- `OpenSIST` 留学申请信息分享平台：<https://opensist.tech/>
 
 # GeekPie 社团维护网站
 
