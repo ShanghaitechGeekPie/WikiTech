@@ -2,7 +2,7 @@
 title: 常用网站
 description: 校内外常用网站
 published: true
-date: 2026-05-15T04:28:48.170Z
+date: 2026-05-15T04:30:16.468Z
 tags: websites
 editor: markdown
 dateCreated: 2026-05-13T02:42:08.560Z
@@ -29,6 +29,35 @@ dateCreated: 2026-05-13T02:42:08.560Z
 - Blackboard：<https://elearning.shanghaitech.edu.cn:8443/>
 
 <!--- 活动成就签到系统：<https://grade.geekpie.club> -->
+
+# GeekPie 社团维护网站
+
+- GeekPie 身份认证（一次注册，多端登录，支持 coursebench、OJ、算力平台等多个网站）
+	- https://auth.geekpie.club
+- **CoursePrettier 课程表美化平台**（支持导出课表到系统日历）
+	- https://course.gregtao.top
+- **GenAI 平台**
+	- https://chat.geekpie.club
+- 校内镜像站
+	- https://mirrors.geekpie.club （公网）
+  - https://mirrors.shanghaitech.edu.cn （公网+内网智能切换）
+- **上科手册 WikiTech**
+	- https://wiki.geekpie.club
+- **Deadline 一站式查询平台**（HollyDDL）
+	- https://ddl.geekpie.club
+- 文件临时分享平台，支持 `ffsend`
+	- 内网：https://send.geekpie.club
+  - 外网：https://send.external.geekpie.club （限制 1GB 文件）
+- 文件传输平台（类似 AirDrop）
+	- https://drop.geekpie.club
+- 实时弹幕平台
+	- https://danmaku.geekpie.club
+- 校内会议平台（无限人数）
+	- https://meet.geekpie.club
+- 密码生成与滚动更新平台
+	- https://password.geekpie.club
+- GeekPie 服务状态监控
+	- https://status.geekpie.club
 
 # 其他常用站点
 
@@ -84,7 +113,6 @@ dateCreated: 2026-05-13T02:42:08.560Z
 - [YouTube](https://www.youtube.com/)
 - [BiliBili](https://www.bilibili.com/)
 
-
 ## 在线课程与自学资源
 
 - [MIT OpenCourseWare](https://ocw.mit.edu/)：MIT公开课
@@ -111,43 +139,11 @@ dateCreated: 2026-05-13T02:42:08.560Z
 
 - [LinkedIn](https://www.linkedin.com/)
 - [牛客网](https://www.nowcoder.com/)：笔试面试、求职题库
-- [LeetCode 中国](https://leetcode.cn/)：算法刷题与面试准备
-- [实习僧](https://www.shixiseng.com/)：实习招聘
 - [Boss 直聘](https://www.zhipin.com/)：招聘求职
-- [拉勾招聘](https://www.lagou.com/)：互联网招聘
 - [应届生求职网](https://www.yingjiesheng.com/)：校招信息
 - [赛氪](https://www.saikr.com/)：大学生竞赛信息
 - [挑战杯](https://www.tiaozhanbei.net/)：创新创业竞赛信息
 
-## 对，还有这个！神秘妙妙工具
+## 神秘妙妙工具
 
 - [全国街机音游地图](https://map.bemanicn.com/)
-
-# GeekPie 社团维护网站
-
-- GeekPie 身份认证（一次注册，多端登录，支持 coursebench、OJ、算力平台等多个网站）
-	- https://auth.geekpie.club
-- **CoursePrettier 课程表美化平台**（支持导出课表到系统日历）
-	- https://course.gregtao.top
-- **GenAI 平台**
-	- https://chat.geekpie.club
-- 校内镜像站
-	- https://mirrors.geekpie.club （公网）
-  - https://mirrors.shanghaitech.edu.cn （公网+内网智能切换）
-- **上科手册 WikiTech**
-	- https://wiki.geekpie.club
-- **Deadline 一站式查询平台**（HollyDDL）
-	- https://ddl.geekpie.club
-- 文件临时分享平台，支持 `ffsend`
-	- 内网：https://send.geekpie.club
-  - 外网：https://send.external.geekpie.club （限制 1GB 文件）
-- 文件传输平台（类似 AirDrop）
-	- https://drop.geekpie.club
-- 实时弹幕平台
-	- https://danmaku.geekpie.club
-- 校内会议平台（无限人数）
-	- https://meet.geekpie.club
-- 密码生成与滚动更新平台
-	- https://password.geekpie.club
-- GeekPie 服务状态监控
-	- https://status.geekpie.club
