@@ -2,7 +2,7 @@
 title: 常用网站
 description: 校内外常用网站
 published: true
-date: 2026-05-15T04:30:16.468Z
+date: 2026-05-18T08:12:27.007Z
 tags: websites
 editor: markdown
 dateCreated: 2026-05-13T02:42:08.560Z
@@ -144,6 +144,7 @@ dateCreated: 2026-05-13T02:42:08.560Z
 - [赛氪](https://www.saikr.com/)：大学生竞赛信息
 - [挑战杯](https://www.tiaozhanbei.net/)：创新创业竞赛信息
 
-## 神秘妙妙工具
+<!-- ## 神秘妙妙工具
 
 - [全国街机音游地图](https://map.bemanicn.com/)
+-->
