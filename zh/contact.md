@@ -2,10 +2,10 @@
 title: 黄页
 description: 上科大公开的地址与联系方式整合页
 published: true
-date: 2026-03-05T11:55:31.357Z
+date: 2026-05-18T08:08:30.365Z
 tags: contact
 editor: markdown
-dateCreated: 2026-01-25T11:21:43.790Z
+dateCreated: 2026-05-13T02:41:33.308Z
 ---
 
 # 地图和黄页
@@ -23,7 +23,7 @@ dateCreated: 2026-01-25T11:21:43.790Z
   
 ## 学校地图
 
-- [OpenStreetMap（最详细，可能需要魔法）](https://www.openstreetmap.org/#map=17/31.178849/121.590543&layers=N)
+- [OpenStreetMap](https://www.openstreetmap.org/#map=17/31.178849/121.590543&layers=N)
 - [上科大官方网页地图](https://map.shanghaitech.edu.cn)
 
 ## 机构和院所
