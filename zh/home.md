@@ -2,10 +2,10 @@
 title: 欢迎来到上科手册！
 description: 上科手册是 Wiki 式的上海科技大学百科站点，所有师生可编辑，为上科大师生提供快捷信息查询服务。
 published: true
-date: 2026-05-11T12:00:10.879Z
+date: 2026-05-21T03:01:51.140Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-25T09:35:36.350Z
+dateCreated: 2026-05-13T02:41:49.363Z
 ---
 
 # 欢迎来到上科手册！
@@ -23,7 +23,7 @@ dateCreated: 2026-01-25T09:35:36.350Z
 - 🎭 **[组织社团](/zh/organizations)**：社团、学生会
 - 🛠️ **[服务技巧](/zh/skills)**：上网、打印、校内服务
 - 📞 **[联系方式](/zh/contact)**：各部门办公电话与邮箱
-- 💬 **[常用群聊](/zh/groups)**：跳蚤市场、兴趣群等
+- 💬 **[常用群聊](https://geekpie-club.feishu.cn/wiki/GxWFw3F29ixA9YkT6ntcOnmUnef)**：跳蚤市场、兴趣群等
 - 🌐 **[重要网站](/zh/websites)**：各种在大学阶段可能用到的网站
 - 🚨 **[紧急情况](/zh/emergency)**：医务室、AED等
 
