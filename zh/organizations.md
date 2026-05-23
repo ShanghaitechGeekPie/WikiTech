@@ -2,10 +2,10 @@
 title: 组织和社团
 description: 上科大的各种组织和社团信息
 published: true
-date: 2026-05-11T12:38:28.064Z
+date: 2026-05-23T15:42:51.768Z
 tags: organizations
 editor: markdown
-dateCreated: 2026-01-25T11:23:27.394Z
+dateCreated: 2026-05-13T02:41:56.885Z
 ---
 
 # 学生社团
@@ -114,6 +114,7 @@ dateCreated: 2026-01-25T11:23:27.394Z
 	- 上海科技大学开源镜像站：https://mirrors.shanghaitech.edu.cn/
 	- CourseBench 上科大最大评课网站：https://coursebench.org/
 - 招新详情请关注校内招新海报，**欢迎有志愿参加HPC、CTF、Hackathon、FPGA、创客大赛等学术科创类竞赛的同学，和想要与我们一同开发像fresh、mirrors这样网站的同学加入我们！**
+- **热爱平面设计的同学也欢迎加入我们**，我们一起让 GeekPie 变得更好！
 
 ## 程序设计竞赛社团(ACM)社
 
