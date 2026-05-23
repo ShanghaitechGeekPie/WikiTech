@@ -2,7 +2,7 @@
 title: 常用网站
 description: 校内外常用网站
 published: true
-date: 2026-05-18T08:13:29.971Z
+date: 2026-05-23T15:24:56.860Z
 tags: websites
 editor: markdown
 dateCreated: 2026-05-13T02:42:08.560Z
@@ -12,21 +12,22 @@ dateCreated: 2026-05-13T02:42:08.560Z
 
 上科大官方以及诸多同学和社团都开办了很多网站服务，从基本的校园信息查询到学术交流，再到学生社交，全方位为大家提供丰富的在线体验。其中少数平台需要使用校内网访问。
 
-- 学校官网：<https://www.shanghaitech.edu.cn/>
-- 学校邮箱：<https://mail.shanghaitech.edu.cn/>
+- **学校官网**：<https://www.shanghaitech.edu.cn/>
+- **学校邮箱**：<https://mail.shanghaitech.edu.cn/>
+- **校园服务平台Egate**: <https://egate-new.shanghaitech.edu.cn/>
+- **GenAI（学校内建AI服务）**：<https://genai.shanghaitech.edu.cn/>
+- **`CourseBench` 评课社区**：<https://coursebench.org/>
 - 教务处：<https://oaa.shanghaitech.edu.cn/>
 - 书院：<https://life.shanghaitech.edu.cn/>
-- **校园服务平台Egate**: <https://egate-new.shanghaitech.edu.cn/>
 - 图书馆电子数据库目录: <https://library.shanghaitech.edu.cn/>
 - 信息公开网：<https://openinfo.shanghaitech.edu.cn/>
-- `CourseBench` 评课社区：<https://coursebench.org/>
 - 开源镜像站：<https://mirrors.shanghaitech.edu.cn/>
 - 教学管理系统：<https://eams.shanghaitech.edu.cn/>
 - 上科大云盘：<https://epan.shanghaitech.edu.cn/>
 - 上海科技大学知识管理系统（KMS）：<https://kms.shanghaitech.edu.cn/>
 - OpenSIST留学申请信息分享平台：<https://opensist.tech/>
-- GenAI（学校内建AI服务）：<https://genai.shanghaitech.edu.cn/>
 - Blackboard：<https://elearning.shanghaitech.edu.cn:8443/>
+- e云课堂：<https://ecourse.shanghaitech.edu.cn/>
 
 <!--- 活动成就签到系统：<https://grade.geekpie.club> -->
 
