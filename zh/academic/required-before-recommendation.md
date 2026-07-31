@@ -2,13 +2,11 @@
 title: 推免前必修
 description: 
 published: true
-date: 2026-07-31T11:47:43.523Z
+date: 2026-07-31T11:50:41.247Z
 tags: academic
 editor: markdown
 dateCreated: 2026-07-31T11:47:43.523Z
 ---
-
-# 推免前必修
 
 推免前必修是指，从2024级开始，部分必修课程若未在前三学年修读将影响推免。
 
