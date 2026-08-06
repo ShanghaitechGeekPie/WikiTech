@@ -2,7 +2,7 @@
 title: 常用网站
 description: 校内外常用网站
 published: true
-date: 2026-05-23T15:24:56.860Z
+date: 2026-08-06T11:35:43.887Z
 tags: websites
 editor: markdown
 dateCreated: 2026-05-13T02:42:08.560Z
@@ -33,7 +33,7 @@ dateCreated: 2026-05-13T02:42:08.560Z
 
 # GeekPie 社团维护网站
 
-- GeekPie 身份认证（一次注册，多端登录，支持 coursebench、OJ、算力平台等多个网站）
+- GeekPie 身份认证（一次注册，多端登录，支持 coursebench、OJ、算力平台、上科手册等多个网站）
 	- https://auth.geekpie.club
 - **CoursePrettier 课程表美化平台**（支持导出课表到系统日历）
 	- https://course.gregtao.top
